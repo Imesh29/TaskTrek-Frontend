@@ -1,6 +1,7 @@
 import React from "react";
 import "./TaskForm.css";
 import Tag from "./Tag";
+import TaskColumn from "./TaskColumn";
 
 export const TaskForm = () => {
   return (
